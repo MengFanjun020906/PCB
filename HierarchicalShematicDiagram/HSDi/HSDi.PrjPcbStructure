@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=dtdsl.SchDoc
+Record=SheetSymbol|SourceDocument=dtdsl.SchDoc|Designator=Gf1|SchDesignator=Repeat(Gf,1,2)|FileName=Gf.SchDoc|SymbolType=Normal|RawFileName=Gf.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=dtdsl.SchDoc|Designator=Gf2|SchDesignator=Repeat(Gf,1,2)|FileName=Gf.SchDoc|SymbolType=Normal|RawFileName=Gf.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=dtdsl.SchDoc|Designator=U_Op|SchDesignator=U_Op|FileName=Op.SchDoc|SymbolType=Normal|RawFileName=Op.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=dtdsl.SchDoc|Designator=U_Sourse|SchDesignator=U_Sourse|FileName=Sourse.SchDoc|SymbolType=Normal|RawFileName=Sourse.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
